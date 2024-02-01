@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bapun Malik</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋, I'm Bapun Malik;Second+line+of+text)](https://git.io/typing-svg)
 <h3 align="center">passionate Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bapun-malik&label=Profile%20views&color=0e75b6&style=flat" alt="bapun-malik" /> </p>
