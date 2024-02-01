@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;+I'm+Bapun+Malik" alt="Typing SVG" /></a>
-<h3 align="center">passionate Learner</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=174DF7&center=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;+I'm+Bapun+Malik" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bapun-malik&label=Profile%20views&color=0e75b6&style=flat" alt="bapun-malik" /> </p>
 
